@@ -1,1 +1,1 @@
-A Simple Inventory Managment using static file which has data
+It's a simple inventory management system built with a Jupyter Notebook. I created this because I wanted to try out something practical that could actually be used to manage stuff, like items in a small shop or even just keeping track of your own collection of games, books, etc.
